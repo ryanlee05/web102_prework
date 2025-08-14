@@ -22,14 +22,16 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='preview.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with **Kap**
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was a challenge learning how to add elements to the HTML page using Javascript, but with time it gets better!
+Utilizing the ternary operator also took some time to comprehend, but a great feature in web development. I really 
+enjoyed working on this project and building my JavaScript skills!
 
 ## License
 
