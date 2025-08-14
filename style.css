@@ -9,6 +9,11 @@ body {
     width: 50px;
 }
 
+.logo-header {
+    display: flex;
+    flex-direction: row;
+}
+
 .header {
     display: flex;
     background-color: lightblue;
@@ -17,12 +22,39 @@ body {
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+    flex-direction: row;
+    justify-content: space-between;
 }
+
+.header button {
+    cursor: pointer;
+    transition-duration: .5s;
+    width: 8rem;
+    height: 4rem;
+    font-size: 1rem;
+}
+
+.header button:hover {
+    background-color:#666464;
+    color: white;
+}
+
 
 .stats-container {
     display: flex;
     align-items: center;
     cursor: pointer;
+}
+
+#button-container button {
+    cursor: pointer;
+    transition-duration: .5s;
+}
+
+#button-container button:hover {
+    transition-duration: .5s;
+    background-color: #666464;
+    color: white;
 }
 
 .stats-containter:hover {
